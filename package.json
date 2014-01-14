@@ -1,7 +1,9 @@
 {
   "name": "technologieplauscherlat",
   "version": "0.0.0",
-  "dependencies": {},
+  "dependencies": {
+    "assemble-contrib-permalinks": "~0.3.2"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-contrib-copy": "~0.4.1",

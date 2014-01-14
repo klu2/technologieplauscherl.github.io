@@ -1,0 +1,24 @@
+{
+	"plauscherl" : {
+		"15" : {
+			"title": "Technologieplauscherl XV",
+			"sessions" : [{
+				"speaker" : "Daniel Khan",
+				"session" : "Scala Play",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c88.26.324.324/s160x160/2706_1049293921262_5828179_n.jpg"
+			},{
+				"speaker" : "Manuel Berger",
+				"session" : "Geolocation for Web - GeoIP &amp; W3C Location, Geohashing",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/c49.0.602.602/s160x160/545731_3969185987727_2021666423_n.jpg"
+			},{
+				"speaker" : "Wolfgang Gottesheim",
+				"session" : "continuous performance testing in CI",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/c111.45.567.567/s160x160/291981_2323472856303_1336799925_n.jpg"
+			},{
+				"speaker" : "Karl-Michael Edlinger",
+				"session" : "Why your unit test assertions suck",
+				"img" : "//lh6.googleusercontent.com/-TPpRZsoXL0o/Tq2Qxva1vgI/AAAAAAAAADw/lgqGj_kxMVw/w842-h840-no/Karl-Michael.jpg"
+			}]
+		}
+	}
+}
