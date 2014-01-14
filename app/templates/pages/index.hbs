@@ -3,9 +3,14 @@ title: Home
 ---
 
 {{>masthead}}
+
+
+{{#index.plauscherl.p16}}
+{{>main}}
+{{/index.plauscherl.p16}}
+
 <ul>
 {{#pages}}
     <li><a href="{{lowercase basename}}/">{{data.title}}</a></li>
 {{/pages}}
 </ul>
-{{>footer}}

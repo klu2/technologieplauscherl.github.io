@@ -1,0 +1,21 @@
+<div class="wrapper">
+	{{#unless main}}
+	{{>headline}}
+	{{/unless}}
+
+	<h2>Sessions</h2>
+
+	<section class="grid">
+		{{#each sessions}}
+			{{>speaker}}
+		{{/each}}
+	</section>
+
+	{{>notice}}
+
+	<h2>Location</h2>
+
+	{{>address}}
+	{{>map}}
+
+</div>

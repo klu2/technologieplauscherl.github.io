@@ -1,5 +1,33 @@
 {
 	"plauscherl" : {
+		"p14" : {
+			"title": "Technologieplauscherl XIV",
+			"date" : "2013-10-22T19:00",
+			"sessions" : [{
+				"speaker" : "Manuel Berger",
+				"session" : "Telefonbot mit twilio",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/c49.0.602.602/s160x160/545731_3969185987727_2021666423_n.jpg"
+			},{
+				"speaker" : "Thomas Einwaller",
+				"session" : "vagrant und docker",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c0.30.180.180/s160x160/7728_131170337117_2334043_a.jpg"
+			},{
+				"speaker" : "Stefan Baumgartner",
+				"session" : "Sass & Emmet",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-ash4/c44.72.449.449/s160x160/399624_487251704628114_991645005_n.jpg"
+			},{
+				"speaker" : "Thomas Knoll",
+				"session" : "DNA Game",
+				"img" : "//fbcdn-profile-a.akamaihd.net/hprofile-ak-frc3/c0.0.180.180/s160x160/1385624_174423526082097_28285060_a.jpg"
+			}],
+			"place" : {
+				"name" : "Hackerspace Linz - DevLOL",
+				"street" : "Hofgasse 19",
+				"zip" : "4020",
+				"town" : "Linz",
+				"map" : "https://a.tiles.mapbox.com/v3/ddprrt.g99c7n08/mm/zoompan.html?secure=1#18/48.32926/14.32076"
+			}
+		},
 		"p15" : {
 			"title": "Technologieplauscherl XV",
 			"date" : "2013-12-18T18:30",
@@ -24,6 +52,17 @@
 				"name" : "Compuware Linz (ehem. DynaTrace)",
 				"street" : "Freistädterstraße 313",
 				"zip" : "4040",
+				"town" : "Linz",
+				"map" : "https://a.tiles.mapbox.com/v3/ddprrt.g99c7n08/mm/zoompan.html?secure=1#18/48.32926/14.32076"
+			}
+		},
+		"p16" : {
+			"title": "Technologieplauscherl XVI",
+			"date" : "2014-01-21T18:30",
+			"place" : {
+				"name" : "Catalysts GmbH",
+				"street" : "Huemerstraße 23",
+				"zip" : "4020",
 				"town" : "Linz",
 				"map" : "https://a.tiles.mapbox.com/v3/ddprrt.g99c7n08/mm/zoompan.html?secure=1#18/48.32926/14.32076"
 			}
