@@ -1,7 +1,8 @@
 {
 	"plauscherl" : {
-		"15" : {
+		"p15" : {
 			"title": "Technologieplauscherl XV",
+			"date" : "2013-12-18T18:30",
 			"sessions" : [{
 				"speaker" : "Daniel Khan",
 				"session" : "Scala Play",
@@ -18,7 +19,14 @@
 				"speaker" : "Karl-Michael Edlinger",
 				"session" : "Why your unit test assertions suck",
 				"img" : "//lh6.googleusercontent.com/-TPpRZsoXL0o/Tq2Qxva1vgI/AAAAAAAAADw/lgqGj_kxMVw/w842-h840-no/Karl-Michael.jpg"
-			}]
+			}],
+			"place" : {
+				"name" : "Compuware Linz (ehem. DynaTrace)",
+				"street" : "Freistädterstraße 313",
+				"zip" : "4040",
+				"town" : "Linz",
+				"map" : "https://a.tiles.mapbox.com/v3/ddprrt.g99c7n08/mm/zoompan.html?secure=1#18/48.32926/14.32076"
+			}
 		}
 	}
 }
