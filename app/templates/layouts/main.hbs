@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="de">
+<head>
+	{{> head}}
+</head>
+<body>
+	{{>masthead}}
+	<ul>
+	{{#pages}}
+	    <li><a href="{{lowercase basename}}/">{{data.title}}</a></li>
+	{{/pages}}
+	</ul>
+</body>
+</html>
+
+

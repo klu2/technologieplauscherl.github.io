@@ -1,22 +1,24 @@
 ---
 title: Technologieplauscherl 15
 ---
-<div class="wrapper">
-	{{#index.plauscherl.p15}}
-	{{>headline}}
-	<h2>Sessions</h2>
-	<section class="grid">
-		{{#each sessions}}
-			{{>speaker}}
-		{{/each}}
-	</section>
 
-	{{>notice}}
+{{#index.plauscherl.p15}}
+{{>headline}}
 
-	<h2>Location</h2>
+<h2>Sessions</h2>
 
-	{{>address}}
-	{{>map}}
+<section class="grid">
+	{{#each sessions}}
+		{{>speaker}}
+	{{/each}}
+</section>
 
-	{{/index.plauscherl.p15}}
-</div>
+{{>notice}}
+
+<h2>Location</h2>
+
+{{>address}}
+{{>map}}
+
+{{/index.plauscherl.p15}}
+
