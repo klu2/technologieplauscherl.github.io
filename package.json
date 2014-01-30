@@ -1,0 +1,33 @@
+{
+  "name": "technologieplauscherl.github.io",
+  "version": "1.0.0",
+  "description": "Source of technologieplauscherl.at Website",
+  "main": "index.html",
+  "dependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-sass": "~0.7.1",
+    "grunt-contrib-watch": "~0.5.3",
+    "load-grunt-tasks": "~0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://ddprrt@github.com/technologieplauscherl/technologieplauscherl.github.io.git"
+  },
+  "keywords": [
+    "meetup",
+    "technologie",
+    "plauscherl",
+    "talks",
+    "vorträge"
+  ],
+  "author": "@ddprrt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/technologieplauscherl/technologieplauscherl.github.io/issues"
+  },
+  "homepage": "https://github.com/technologieplauscherl/technologieplauscherl.github.io"
+}
